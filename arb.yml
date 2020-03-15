@@ -11,8 +11,8 @@ prefix.particles: §9Particles> §7
 prefix.pets: §9Pets> §7
 
 # MiniGame sub-prefixes
-prefix.join: §8Join> §7
-prefix.quit: §8Quit> §7
+prefix.join: §8انصم> §7
+prefix.quit: §8خروج> §7
 
 # MiniGame prefixes
 prefix.vanilla: §9Survival> §7
@@ -55,18 +55,18 @@ scoreboard.lobby:
   
  
 # Lobby messages
-message.join-title: §2WELCOME BACK
+message.join-title: §2 مرحبا بعودتك
 message.join-subtitle: §aon §fBedrock§6Play
-message.account-authenticated: §aYou were automatically logged in
-message.fly-enabled: §aFlying mode turned on!
-message.join-staff: §aStaff {%0}§a joined the game!
-message.join-bedrock: §9BEDROCK {%0}§a joined the game!
-message.minigame-underdev: §cThis server is under development.
+message.account-authenticated: §aتم تسجيل دخولك تلقائيًا
+message.fly-enabled: §aتم تشغيل وضع الطيران!
+message.join-staff: §aStaff {%0}§a !انضم إلى لعبة
+message.join-bedrock: §9BEDROCK {%0}§a !انضم إلى لعبة
+message.minigame-underdev: §cهذا الخادم قيد التطوير.
 
 # Lobby chat messages
 message.muted: §cYou are muted. Wait {%0} seconds to get unmuted.
-message.chat-caps: §cDon't use CAPS when you are chatting!
-message.chat-advertisement: §cSorry, but advertisement isn't allowed on our server!
+message.chat-caps:§cلا تستخدم كابس أثناء الدردشة
+message.chat-advertisement: §cآسف ولكن لا يسمح بالإعلانات على الخادم
 message.chat-limit: §6Wait {%0} seconds to chat again.
 
 # Survival messages
