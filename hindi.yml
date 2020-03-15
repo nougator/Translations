@@ -1,0 +1,75 @@
+---
+# Prefixes
+prefix.game: §9Game> §7
+prefix.server: §9Server> §7
+prefix.account: §9Account> §7
+prefix.crates: §9Crates> §7
+prefix.chat: §9Chat> §7
+prefix.anticheat: §9AntiCheat> §7
+prefix.gadgets: §9Gadgets> §7
+prefix.particles: §9Particles> §7
+prefix.pets: §9Pets> §7
+
+# MiniGame sub-prefixes
+prefix.join: §8Join> §7
+prefix.quit: §8Quit> §7
+
+# MiniGame prefixes
+prefix.vanilla: §9Survival> §7
+prefix.skywars: §9SkyWars> §7
+prefix.thebridge: §9TheBridge> §7
+prefix.eggwars: §9EggWars> §7
+prefix.uhcrun: §9UHCRun> §7
+prefix.duels: §9Duels> §7
+
+# Ranks
+rank.owner: Owner
+rank.admin: Admin
+rank.mod: Mod
+rank.helper: Helper
+rank.builder: Builder
+rank.trainee: Trainee
+rank.developer: Developer
+rank.youtube: YouTube
+rank.bedrock: Bedrock
+rank.voter: Voter
+rank.guest: Guest
+
+# Scoreboards
+scoreboard.lobby:
+  - "§6§lBEDROCK PLAY"
+  - ""
+  - "§b§lOnline:"
+  - "§f  {%0}"
+  - ""
+  - "§a§lCrystals:"
+  - "§f  {%1}"
+  - ""
+  - "§e§lCoins:"
+  - "§f  {%2}"
+  - ""
+  - "§6§lRank:"
+  - "§f  {%3}"
+  - ""
+  - "§emc.bedrockplay.eu"
+  
+
+# Lobby messages
+message.join-title: §2WELCOME BACK
+message.join-subtitle: §aon §fBedrock§6Play
+message.account-authenticated: §aRuk Jao Aap Apnap Join Ho Jaao Ge
+message.fly-enabled: §aFlying mode Chalu Ho Gya!
+message.join-staff: §aStaff {%0}§a Aagye He Game Me!
+message.join-bedrock: §9BEDROCK {%0}§a Aagye He Game Me!
+message.minigame-underdev: §cTumhara Server Abhi under development Me he.
+message.lang-changed: §aLanguage was updated to Hindi.
+
+# Lobby chat messages
+message.muted: §cTum Mute Ho. Ruko {%0} Seconds Fir UnMute Honge.
+message.chat-caps: §cCAPS Mat Istemal Karo Chatting Ke Vakt!
+message.chat-advertisement: §cSorry, Par advertisement Tumhare Server Me Allow Nhi He!
+message.chat-limit: §6Ruko {%0} seconds Fir Chat Karna.
+
+# Survival messages
+message.spawnpoint: §aTumhara Spawn Point Success Fully Update Ho Gya!
+...
