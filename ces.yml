@@ -63,6 +63,50 @@ message.join-staff: §aČlen AdminTeamu, {%0}§a se připojil!
 message.join-bedrock: §9BEDROCK {%0}§a se připojil!
 message.minigame-underdev: §cTento server je ve vývoji
 
+# Crates
+message.crate-title: §6§l§k|§r§e§l TAJEMNÁ TRUHLA §6§k|§r
+message.crate-subtitle: §7Nakup truhly za tvé krystaly.
+message.crate-form-title: Tajemná truhla
+message.crate-form-subtitle: Vyber truhlu, kterou chceš otevřít.
+message.crate-form-button-common: §b§lZÁKLADNÍ§r {%0}- 5 Krystalů
+message.crate-form-button-rare: §b§lDRAHÁ§r {%0}- 15 Krystalů
+message.crate-form-button-legendary: §b§lLEGENDÁRNÍ§r {%0}- 50 Krystalů
+message.crate-form-button-voter: §9§lODHLASOVANÁ§r
+message.crate-form-button-bedrock: §9§lBEDROCK§r
+message.crate-form-button-box-available: §a- 1 truhla dostupná
+message.crate-form-button-need-rank: §c- Požaduje vyšší rank ({%0})
+message.crate-form-button-buy: §7§l> §r§7Koupit za krystaly ihned
+message.crate-form-button-cannot-buy: §7§l> §r§7Potřebuješ více krystalů
+message.crate-form-click-to-open: §7§l> §r§7Klikni pro otevření
+message.crate-form-have-not-boxes: §7§l> §r§7> Nemáš žádné {%0} truhly
+message.crate-received: §aDostal jsi {%0}!
+message.crate-coins: mincí
+message.crate-have-not-voter: §cNemáš žádné truhly za hlasování pro server.
+message.crate-have-not-bedrock: §cNemáš žádné truhly díky BEDROCK ranku
+message.crate.have-not-crystals: §cNemáš dostatek krystalů pro koupení této truhly
+
+# Leaderboards
+message.leaderboard-title: §6§l§k|§r§e§lŽEBŘÍČEK §6§k|§r
+message.leaderboard-kills: Zabití
+message.leaderboard-wins: Výhry
+
+# Floating texts
+message.voter-rank:
+  - "§6§l§k|§r§l§e RANK HLASUJÍCÍ §6§k|§r"
+  - "§7Hlasuj pro náš server na §ebit.do/bedrockplay§7"
+  - "§7a získej spoustu výhod jako §eLétání§7"
+  - "§7na spawnu, §eTruhlu§7 pro hlasující"
+  - "§7a samozřejmě rank §eZDARMA§7!"
+
+message.bedrock-rank:
+  - "§6§l§k|§r§l§e BEDROCK RANK §6§k|§r"
+  - "§7Podpoř náš server koupením §eBEDROCK"
+  - "§7ranku. Získáš výhody jako třeba §eLétání§7 na"
+  - "§7spawnu, §eVšechny§7 §ekity§7 zadarmo, A hlavně"
+  - "§7všechny předměty z §eCosmeticMenu§7 zdarma."
+  - "§7Aby sis mohl koupit rank, navštiv náš eshop"
+  - "§ebedrockplay.tebex.io§7 a kup si rank jen za §e4 EUR§7!"
+
 # Lobby chat messages
 message.muted: §cByla zablokována tvoje aktivita v chatu. Počkej {%0} abys mohl chatovat znovu.
 message.chat-caps: §cNepoužívej velká písmena při psaní!
