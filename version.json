@@ -13,6 +13,10 @@
     "arb": {
       "name": "Arabic",
       "data": "https://raw.githubusercontent.com/BedrockPlay/Translations/master/arb.yml"
+    },
+    "hin": {
+      "name": "Hindi",
+      "data": "https://raw.githubusercontent.com/BedrockPlay/Translations/master/hin.yml"
     }
   }
 }
