@@ -65,7 +65,7 @@ message.minigame-underdev: §cهذا الخادم قيد التطوير.
 
 # Lobby chat messages
 message.muted: §cYou are muted. Wait {%0} seconds to get unmuted.
-message.chat-caps:§cلا تستخدم كابس أثناء الدردشة
+message.chat-caps: §cلا تستخدم كابس أثناء الدردشة
 message.chat-advertisement: §cآسف ولكن لا يسمح بالإعلانات على الخادم
 message.chat-limit: §6Wait {%0} seconds to chat again.
 
