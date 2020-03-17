@@ -62,17 +62,19 @@ message.fly-enabled: §aLétání bylo zapnuto!
 message.join-staff: §aČlen AdminTeamu, {%0}§a se připojil!
 message.join-bedrock: §9BEDROCK {%0}§a se připojil!
 message.minigame-underdev: §cTento server je ve vývoji
+message.lang-changed: §aÚspěšně sis nastavil češtinu jako hlavní jazyk.
 
 # Crates
 message.crate-title: §6§l§k|§r§e§l TAJEMNÁ TRUHLA §6§k|§r
-message.crate-subtitle: §7Nakup truhly za tvé krystaly.
+message.crate-subtitle: §7Nakup si truhly za své krystaly.
 message.crate-form-title: Tajemná truhla
 message.crate-form-subtitle: Vyber truhlu, kterou chceš otevřít.
-message.crate-form-button-common: §b§lZÁKLADNÍ§r {%0}- 5 Krystalů
-message.crate-form-button-rare: §b§lDRAHÁ§r {%0}- 15 Krystalů
-message.crate-form-button-legendary: §b§lLEGENDÁRNÍ§r {%0}- 50 Krystalů
+message.crate-form-button-common: §b§lZÁKLADNÍ§r
+message.crate-form-button-rare: §b§lDRAHÁ§r
+message.crate-form-button-legendary: §b§lLEGENDÁRNÍ§r
 message.crate-form-button-voter: §9§lODHLASOVANÁ§r
 message.crate-form-button-bedrock: §9§lBEDROCK§r
+message.crate-crystals: Crystals
 message.crate-form-button-box-available: §a- 1 truhla dostupná
 message.crate-form-button-need-rank: §c- Požaduje vyšší rank ({%0})
 message.crate-form-button-buy: §7§l> §r§7Koupit za krystaly ihned
