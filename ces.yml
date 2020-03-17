@@ -86,7 +86,7 @@ message.crate-have-not-bedrock: §cNemáš žádné truhly díky BEDROCK ranku
 message.crate.have-not-crystals: §cNemáš dostatek krystalů pro koupení této truhly
 
 # Leaderboards
-message.leaderboard-title: §6§l§k|§r§e§lŽEBŘÍČEK §6§k|§r
+message.leaderboard-title: §6§l§k|§r §e§lŽEBŘÍČEK §6§k|§r
 message.leaderboard-kills: Zabití
 message.leaderboard-wins: Výhry
 
