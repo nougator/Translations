@@ -69,16 +69,17 @@ message.crate-title: §6§l§k|§r§e§l MYSTERY BOX §6§k|§r
 message.crate-subtitle: §7Buy crate for your crystals.
 message.crate-form-title: MysteryBox
 message.crate-form-subtitle: Please, select the crate which you want open
-message.crate-form-button-common: §b§lCOMMON§r {%0}- 5 Crystals
-message.crate-form-button-rare: §b§lRARE§r {%0}- 15 Crystals
-message.crate-form-button-legendary: §b§lLEGENDARY§r {%0}- 50 Crystals
+message.crate-form-button-common: §b§lCOMMON§r 
+message.crate-form-button-rare: §b§lRARE§r 
+message.crate-form-button-legendary: §b§lLEGENDARY§r 
 message.crate-form-button-voter: §9§lVOTER§r
 message.crate-form-button-bedrock: §9§lBEDROCK§r
+message.crate-crystals: Crystals
 message.crate-form-button-box-available: §a- 1 box available
 message.crate-form-button-need-rank: §c- Requires {%0} rank
 message.crate-form-button-buy: §7§l> §r§7Click to buy
 message.crate-form-button-cannot-buy: §7§l> §r§7You need more crystals to buy this box
-message.crate-form-click-to-open: §7§l> §r7Click to open
+message.crate-form-click-to-open: §7§l> §r§7Click to open
 message.crate-form-have-not-boxes: §7§l> §r§7> You haven't any {%0} boxes
 message.crate-received: §aYou've received {%0}!
 message.crate-coins: coins
