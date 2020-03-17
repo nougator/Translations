@@ -59,8 +59,8 @@ message.join-title: §2WELCOME BACK
 message.join-subtitle: §aon §fBedrock§6Play
 message.account-authenticated: §aYou were automatically logged in
 message.fly-enabled: §aFlying mode turned on!
-message.join-staff: §aStaff {%0}§a joined the game!
-message.join-bedrock: §9BEDROCK {%0}§a joined the game!
+message.join-staff: §6§lSTAFF §r§7{%0}§a joined the game!
+message.join-bedrock: §9§lBEDROCK §r§7{%0}§a joined the game!
 message.minigame-underdev: §cThis server is under development.
 message.lang-changed: §aLanguage was updated to English.
 
