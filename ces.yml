@@ -105,7 +105,7 @@ message.bedrock-rank:
   - "§7spawnu, §eVšechny§7 §ekity§7 zadarmo, A hlavně"
   - "§7všechny předměty z §eCosmeticMenu§7 zdarma."
   - "§7Aby sis mohl koupit rank, navštiv náš eshop"
-  - "§ebedrockplay.tebex.io§7 a kup si rank jen za §e4 EUR§7!"
+  - "§ebedrockplay.tebex.io§7 a pořiď si rank jen za §e4 EUR§7!"
 
 # Lobby chat messages
 message.muted: §cByla zablokována tvoje aktivita v chatu. Počkej {%0} abys mohl chatovat znovu.
