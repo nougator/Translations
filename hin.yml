@@ -64,6 +64,50 @@ message.join-bedrock: §9BEDROCK {%0}§a Aagye He Game Me!
 message.minigame-underdev: §cTumhara Server Abhi under development Me he.
 message.lang-changed: §aLanguage was updated to Hindi.
 
+# Crates
+message.crate-title: §6§l§k|§r§e§l MYSTERY BOX §6§k|§r
+message.crate-subtitle: §7Buy crate for your crystals.
+message.crate-form-title: MysteryBox
+message.crate-form-subtitle: Please, select the crate which you want open
+message.crate-form-button-common: §b§lCOMMON§r {%0}- 5 Crystals
+message.crate-form-button-rare: §b§lRARE§r {%0}- 15 Crystals
+message.crate-form-button-legendary: §b§lLEGENDARY§r {%0}- 50 Crystals
+message.crate-form-button-voter: §9§lVOTER§r
+message.crate-form-button-bedrock: §9§lBEDROCK§r
+message.crate-form-button-box-available: §a- 1 box available
+message.crate-form-button-need-rank: §c- Requires {%0} rank
+message.crate-form-button-buy: §7§l> §r§7Click to buy
+message.crate-form-button-cannot-buy: §7§l> §r§7You need more crystals to buy this box
+message.crate-form-click-to-open: §7§l> §r7Click to open
+message.crate-form-have-not-boxes: §7§l> §r§7> You haven't any {%0} boxes
+message.crate-received: §aYou've received {%0}!
+message.crate-coins: coins
+message.crate-have-not-voter: §cYou haven't any voter crates.
+message.crate-have-not-bedrock: §cYou haven't any bedrock crates.
+message.crate.have-not-crystals: §cYou haven't too enough crystals to buy this crate.
+
+# Leaderboards
+message.leaderboard-title: §6§l§k|§r§e§l LEADERBOARD §6§k|§r
+message.leaderboard-kills: Kills
+message.leaderboard-wins: Wins
+
+# Floating texts
+message.voter-rank:
+  - "§6§l§k|§r§l§e VOTER RANK §6§k|§r"
+  - "§7Vote for our server at §ebit.do/bedrockplay§7"
+  - "§7and get a lot of adventages such as §eFly§7"
+  - "§7on lobby, VOTER §eCrate§7 and in-game rank"
+  - "§7for §eFREE§7!"
+
+message.bedrock-rank:
+  - "§6§l§k|§r§l§e BEDROCK RANK §6§k|§r"
+  - "§7Support our server by buying §eBEDROCK"
+  - "§7rank. You will get adventages like §eFly§7 on"
+  - "§7spawn, §eAll§7 the §ekits§7 for free, And also"
+  - "§7all the stuff from §eCosmeticMenu§7 for free."
+  - "§7To buy this rank visit our online store at"
+  - "§ebedrockplay.tebex.io§7! Just for §e4 EUR§7!"
+
 # Lobby chat messages
 message.muted: §cTum Mute Ho. Ruko {%0} Seconds Fir UnMute Honge.
 message.chat-caps: §cCAPS Mat Istemal Karo Chatting Ke Vakt!
