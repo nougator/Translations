@@ -65,7 +65,7 @@ message.minigame-underdev: §cهذا الخادم قيد التطوير.
 
 # Crates
 message.crate-title: §6§l§k|§r§e§l MYSTERY BOX §6§k|§r
-message.crate-subtitle: §7Buy crate for your crystals.
+message.crate-subtitle: §7شراء قفص لبلورات الخاص بك.
 message.crate-form-title: MysteryBox
 message.crate-form-subtitle: الرجاء تحديد الصندوق الذي تريد فتحه
 message.crate-form-button-common: §b§lCOMMON§r
@@ -74,7 +74,7 @@ message.crate-form-button-legendary: §b§lLEGENDARY§r
 message.crate-form-button-voter: §9§lVOTER§r
 message.crate-form-button-bedrock: §9§lBEDROCK§r
 message.crate-crystals: Crystals
-message.crate-form-button-box-available: §a- 1 box available
+message.crate-form-button-box-available: §a- 1 مربع متاح
 message.crate-form-button-need-rank: §c- Requires {%0} rank
 message.crate-form-button-buy: §7§l> §r§7انقر للشراء
 message.crate-form-button-cannot-buy: §7§l> §r§7تحتاج إلى المزيد من البلورات لشراء هذا الصندوق
@@ -112,7 +112,7 @@ message.bedrock-rank:
 message.muted: §cYou are muted. Wait {%0} seconds to get unmuted.
 message.chat-caps: §cلا تستخدم كابس أثناء الدردشة
 message.chat-advertisement: §cآسف ولكن لا يسمح بالإعلانات على الخادم
-message.chat-limit: §6Wait {%0} seconds to chat again.
+message.chat-limit: §6انتظار حتى يتم فتح mute {%0}.
 
 # Survival messages
 message.spawnpoint: §aYour spawn point was successfully updated!
