@@ -69,11 +69,12 @@ message.crate-title: §6§l§k|§r§e§l MYSTERY BOX §6§k|§r
 message.crate-subtitle: §7Crate Kharido Crystals Ke Liye.
 message.crate-form-title: MysteryBox
 message.crate-form-subtitle: Please, Crate Ke Uper Click Karo Jo Tum Chahte Ho
-message.crate-form-button-common: §b§lCOMMON§r {%0}- 5 Crystals
-message.crate-form-button-rare: §b§lRARE§r {%0}- 15 Crystals
-message.crate-form-button-legendary: §b§lLEGENDARY§r {%0}- 50 Crystals
+message.crate-form-button-common: §b§lCOMMON§r {%0}
+message.crate-form-button-rare: §b§lRARE§r {%0}
+message.crate-form-button-legendary: §b§lLEGENDARY§r {%0}
 message.crate-form-button-voter: §9§lVOTER§r
 message.crate-form-button-bedrock: §9§lBEDROCK§r
+message.crate-crystals: Crystals
 message.crate-form-button-box-available: §a- 1 box He Tumare Pass
 message.crate-form-button-need-rank: §c- Tume {%0} rank Chaiye
 message.crate-form-button-buy: §7§l> §r§7Click Kro Kharid Ne Ke Liye
@@ -85,6 +86,7 @@ message.crate-coins: coins
 message.crate-have-not-voter: §ctumhare pass abhi voter nhi he vote karo fir mile ga.
 message.crate-have-not-bedrock: §cTumhare Pass Abhi bedrock crates nhi he Buy bedrock crate fir mile ga.
 message.crate.have-not-crystals: §cTumhare Pass Abhi Pure crystals nhi he isse buy karne ke liye.
+
 
 # Leaderboards
 message.leaderboard-title: §6§l§k|§r§e§l LEADERBOARD §6§k|§r
