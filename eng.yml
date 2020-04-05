@@ -108,6 +108,12 @@ message.bedrock-rank:
   - "§7all the stuff from §eCosmeticMenu§7 for free."
   - "§7To buy this rank visit our online store at"
   - "§ebedrockplay.tebex.io§7! Just for §e4 EUR§7!"
+  
+message.welcome-floating:
+  - "§l§7--- §eBedrock§6Play §2NETWORK §7---§r"
+  - "§7- Website: §bbedrockplay.eu"
+  - "§7- Discord: §bdiscord.io/bedrockplay"
+  - "§f§oThak you for playing!"
 
 # Lobby chat messages
 message.muted: §cYou are muted. Wait {%0} seconds to get unmuted.
