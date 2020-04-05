@@ -94,14 +94,14 @@ message.leaderboard-wins: Wins
 
 # Floating texts
 message.voter-rank:
-  - "§6§l§k|§r§l§e VOTER RANK §6§k|§r"
+  - "§8§l--- == [ §eVOTER RANK §8] == ---"
   - "§7Vote for our server at §ebit.do/bedrockplay§7"
   - "§7and get a lot of adventages such as §eFly§7"
   - "§7on lobby, VOTER §eCrate§7 and in-game rank"
   - "§7for §eFREE§7!"
 
 message.bedrock-rank:
-  - "§6§l§k|§r§l§e BEDROCK RANK §6§k|§r"
+  - "§8§l--- == [ §eBEDROCK RANK §8] == ---"
   - "§7Support our server by buying §eBEDROCK"
   - "§7rank. You will get adventages like §eFly§7 on"
   - "§7spawn, §eAll§7 the §ekits§7 for free, And also"
@@ -110,10 +110,12 @@ message.bedrock-rank:
   - "§ebedrockplay.tebex.io§7! Just for §e4 EUR§7!"
   
 message.welcome-floating:
-  - "§l§7--- §eBedrock§6Play §2NETWORK §7---§r"
-  - "§7- Website: §bbedrockplay.eu"
-  - "§7- Discord: §bdiscord.io/bedrockplay"
+  - "§l§8--- == [ §eBedrock§6Play §2NETWORK §8] == ---§r"
+  - "§7Website: §bbedrockplay.eu"
+  - "§7Discord: §bdiscord.io/bedrockplay"
   - "§f§oThank you for playing!"
+  
+message.builder-credits: "§7This amazing lobby was built by §e@CryptoKey98§7 and §e@DepstrajderTv"
 
 # Lobby chat messages
 message.muted: §cYou are muted. Wait {%0} seconds to get unmuted.
