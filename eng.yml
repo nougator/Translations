@@ -115,7 +115,7 @@ message.welcome-floating:
   - "§7Discord: §bdiscord.io/bedrockplay"
   - "§f§oThank you for playing!"
   
-message.builder-credits: "§7This amazing lobby was built by §e@CryptoKey98§7 and §e@DepstrajderTv"
+message.builder-credits: "§7This amazing lobby was built by\n§e@CryptoKey98§7 and §e@DepstrajderTv"
 
 # Lobby chat messages
 message.muted: §cYou are muted. Wait {%0} seconds to get unmuted.
