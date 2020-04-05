@@ -113,7 +113,7 @@ message.welcome-floating:
   - "§l§7--- §eBedrock§6Play §2NETWORK §7---§r"
   - "§7- Website: §bbedrockplay.eu"
   - "§7- Discord: §bdiscord.io/bedrockplay"
-  - "§f§oThak you for playing!"
+  - "§f§oThank you for playing!"
 
 # Lobby chat messages
 message.muted: §cYou are muted. Wait {%0} seconds to get unmuted.
