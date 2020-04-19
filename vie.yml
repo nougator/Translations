@@ -1,0 +1,128 @@
+---
+# Prefixes
+prefix.game: §9Trò chơi> §7
+prefix.server: §9Máy chủ> §7
+prefix.account: §9Tài khoản> §7
+prefix.crates: §9Thùng> §7
+prefix.chat: §9Trò chuyện> §7
+prefix.anticheat: §9AntiCheats> §7
+prefix.gadgets: §9Dụng cụ> §7
+prefix.particles: §9Hiệu ứng> §7
+prefix.pets: §9Vật nuôi> §7
+
+# MiniGame sub-prefixes
+prefix.join: §8Tham gia> §7
+prefix.quit: §8Thoát> §7
+
+# MiniGame prefixes
+prefix.vanilla: §9Sinh tồn> §7
+prefix.skywars: §9SkyWars> §7
+prefix.thebridge: §9TheBridge> §7
+prefix.eggwars: §9EggWars> §7
+prefix.uhcrun: §9UHCRun> §7
+prefix.duels: §9Duels> §7
+
+# Ranks
+rank.owner: Chủ sở hữu
+rank.admin: Quản lí
+rank.mod: Người điều hành
+rank.helper: Giúp đỡ viên
+rank.builder: Thợ xây
+rank.trainee: Học viên
+rank.developer: Lập trình viên
+rank.youtube: YouTube
+rank.bedrock: Đá nền
+rank.voter: Bầu cử viên
+rank.guest: Khách mời
+
+# Scoreboards
+scoreboard.lobby:
+  - "§0§lBEDROCK §6PLAY"
+  - ""
+  - "§b§lTrực tuyến:"
+  - "§f  {%0}"
+  - ""
+  - "§a§lPha lê:"
+  - "§f  {%1}"
+  - ""
+  - "§e§lXu:"
+  - "§f  {%2}"
+  - ""
+  - "§6§lPhù hiệu:"
+  - "§f  {%3}"
+  - ""
+  - "§emc§7.§fbedrockplay§7.§eeu"
+  
+ 
+# Lobby messages
+message.join-title: §2CHÀO MỪNG TRỞ LẠI
+message.join-subtitle: §atrên §fBedrock§6Play
+message.account-authenticated: §aBạn đã được tự động đăng nhập
+message.fly-enabled: §aChế độ bay kích hoạt!
+message.join-staff: §6§lQUẢN TRỊ §r§7{%0}§a đã tham gia trò chơi!
+message.join-bedrock: §9§lĐÁ NỀN §r§7{%0}§a đã tham gia trò chơi!
+message.minigame-underdev: §cMáy chủ này đang được phát triển bởi lập trình viên!
+message.lang-changed: §aNgôn ngữ đã chuyển thành Tiếng Việt
+
+# Crates
+message.crate-title: §6§l§k|§r§e§l THÙNG BÍ ẨN §6§k|§r
+message.crate-subtitle: §7Mua thùng bằng pha lê của bạn.
+message.crate-form-title: Hộp bí ẩn
+message.crate-form-subtitle: Làm ơn chọn thùng bạn muốn mở
+message.crate-form-button-common: §b§lTHƯỜNG§r 
+message.crate-form-button-rare: §b§lHIẾM§r 
+message.crate-form-button-legendary: §b§lHUYỀN THOẠI§r 
+message.crate-form-button-voter: §9§l BẦU CỬ VIÊN§r
+message.crate-form-button-bedrock: §9§lĐÁ NỀN§r
+message.crate-crystals: Crystals
+message.crate-form-button-box-available: §a- 1 hộp khả dụng
+message.crate-form-button-need-rank: §c- Yêu cầu phù hiệu {%0}
+message.crate-form-button-buy: §7§l> §r§7Nhấn để mua
+message.crate-form-button-cannot-buy: §7§l> §r§7Bạn cần thêm pha lê để mua thùng.
+message.crate-form-click-to-open: §7§l> §r§7Nhấn để mở
+message.crate-form-have-not-boxes: §7§l> §r§7> Bạn chưa có {%0} thùng
+message.crate-received: §aBạn nhận được {%0}!
+message.crate-coins: xu
+message.crate-have-not-voter: §cBạn chưa có thùng người bầu cử nào cả.
+message.crate-have-not-bedrock: §cBạn chưa có thùng đá nền nào cả.
+message.crate.have-not-crystals: §cBạn chưa có đủ pha lê để mua thùng.
+
+# Leaderboards
+message.leaderboard-title: §6§l§k|§r§e§l BẢNG XẾP HẠNG  §6§k|§r
+message.leaderboard-kills: Giết
+message.leaderboard-wins: Thắng
+
+# Floating texts
+message.voter-rank:
+  - "§8§l--- == [ §ePHÙ HIỆU BẦU CỬ VIÊN §8] == ---"
+  - "§7Bầu cho máy chủ tại §ebit.do/bedrockplay§7"
+  - "§7và lấy nhiều lợi ích như §eBay§7 ở sảnh chính,"
+  - "§eThùng§7 §7BẦU CỬ VIÊN và phù hiệu trong trò"
+  - "§7chơi §eMIỄN PHÍ§7!"
+
+message.bedrock-rank:
+  - "§8§l--- == [ §ePHÙ HIỆU ĐÁ NỀN §8] == ---"
+  - "§7Ủng hộ máy chủ bằng cách mua phù hiệu §eĐÁ NỀN"
+  - "§7Bạn sẽ có các tiện ích như §eBay§7 trong sảnh chính,"
+  - "§7§eTất cả§7 các §ebộ dụng cụ§7 miễn phí, và còn rất"
+  - "§7đồ thú vị khác! Để mua phù hiệu này, bạn cần phải tới"
+  - "§etrang web bedrockplay.tebex.io§7!"
+  - "Chỉ với §e4 EUR (105k VND)§7!"
+  
+message.welcome-floating:
+  - "§l§8--- == [  §2 Mạng Lưới §eBedrock§6Play§8] == ---§r"
+  - "§7Trang web: §bbedrockplay.eu"
+  - "§7Máy chủ bất hòa: §bdiscord.io/bedrockplay"
+  - "§f§oCảm ơn bạn đã chơi!"
+  
+message.builder-credits: "§7Sảnh tuyệt vời này làm bởi\n§e@CryptoKey98§7 và §e@DepstrajderTv/n§7Ngôn ngữ Tiếng Việt bởi @BadderNTT (NTT)"
+
+# Lobby chat messages
+message.muted: §cBạn đã bị tắt tiếng. Chờ {%0} giây để bật lại.
+message.chat-caps: §cĐừng bật CAPS khi bạn trò chuyện!
+message.chat-advertisement: §cXin lỗi nhưng máy chủ chúng tôi không cho quảng cáo!
+message.chat-limit: §6Chờ {%0} giây để trò chuyện tiếp.
+
+# Survival messages
+message.spawnpoint: §aĐiểm sinh ra của bạn đã được cập nhật!
+...
