@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "default": "eng",
   "languages": {
     "eng": {
@@ -17,6 +17,10 @@
     "hin": {
       "name": "Hindi",
       "data": "https://raw.githubusercontent.com/BedrockPlay/Translations/master/hin.yml"
+    },
+    "vie": {
+      "name": "Vietnamese",
+      "data": "https://raw.githubusercontent.com/BedrockPlay/Translations/master/vie.yml"
     }
   }
 }
