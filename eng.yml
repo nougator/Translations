@@ -62,6 +62,7 @@ message.account-authenticated: §aYou were automatically logged in
 message.fly-enabled: §aFlying mode turned on!
 message.join-staff: §6§lSTAFF §r§7{%0}§a joined the game!
 message.join-bedrock: §9§lBEDROCK §r§7{%0}§a joined the game!
+message.join-vip: §3§lVIP §r§7{%0}§a joined the game!
 message.minigame-underdev: §cThis server is under development.
 message.lang-changed: §aLanguage was updated to English.
 
@@ -81,7 +82,7 @@ message.crate-form-button-need-rank: §c- Requires {%0} rank
 message.crate-form-button-buy: §7§l> §r§7Click to buy
 message.crate-form-button-cannot-buy: §7§l> §r§7You need more crystals to buy this box
 message.crate-form-click-to-open: §7§l> §r§7Click to open
-message.crate-form-have-not-boxes: §7§l> §r§7> You haven't any {%0} boxes
+message.crate-form-have-not-boxes: §7§l> §r§7You haven't any {%0} boxes
 message.crate-received: §aYou've received {%0}!
 message.crate-coins: coins
 message.crate-have-not-voter: §cYou haven't any voter crates.
