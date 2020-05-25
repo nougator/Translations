@@ -1,0 +1,130 @@
+---
+# Prefixes
+prefix.game: §9Jeux> §7
+prefix.server: §9Serveur> §7
+prefix.account: §9Compte> §7
+prefix.crates: §9Caisses> §7
+prefix.chat: §9Chat> §7
+prefix.anticheat: §9AntiTriche> §7
+prefix.gadgets: §9Gadgets> §7
+prefix.particles: §9Particles> §7
+prefix.pets: §9Animaux de compagnie> §7
+
+# MiniGame sub-prefixes
+prefix.join: §8Rejoindre> §7
+prefix.quit: §8Quitter> §7
+
+# MiniGame prefixes
+prefix.vanilla: §9Survival> §7
+prefix.skywars: §9SkyWars> §7
+prefix.thebridge: §9TheBridge> §7
+prefix.eggwars: §9EggWars> §7
+prefix.uhcrun: §9UHCRun> §7
+prefix.duels: §9Duels> §7
+
+# Ranks
+rank.owner: Propriétaire
+rank.admin: Administrateur
+rank.mod: Modérateur
+rank.helper: Guide
+rank.builder: Buildeur
+rank.trainee: Stagiaire
+rank.developer: Developeur
+rank.youtube: YouTubeur
+rank.bedrock: Bedrock
+rank.vip: Vip
+rank.voter: Voter
+rank.guest: Guest
+
+# Scoreboards
+scoreboard.lobby:
+  - "§6§lBEDROCK PLAY"
+  - ""
+  - "§b§lEn ligne:"
+  - "§f  {%0}"
+  - ""
+  - "§a§lCrystals:"
+  - "§f  {%1}"
+  - ""
+  - "§e§lPièces:"
+  - "§f  {%2}"
+  - ""
+  - "§6§lGrade:"
+  - "§f  {%3}"
+  - ""
+  - "§emc.bedrockplay.eu"
+  
+ 
+# Lobby messages
+message.join-title: §2BIENVENUE 
+message.join-subtitle: §asur §fBedrock§6Play
+message.account-authenticated: §aVous avez été automatiquement connecté
+message.fly-enabled: §aMode de vol activé!
+message.join-staff: §6§lSTAFF §r§7{%0}§a a rejoint le jeu!
+message.join-bedrock: §9§lBEDROCK §r§7{%0}§a a rejoint le jeu!
+message.join-vip: §3§lVIP §r§7{%0}§a a rejoint le jeu!
+message.minigame-underdev: §cCe serveur est en cours de développement.
+message.lang-changed: §aLa langue a été mise à jour en anglais.
+
+# Crates
+message.crate-title: §6§l§k|§r§e§l BOÎTE À MYSTÈRES §6§k|§r
+message.crate-subtitle: §7Achetez une caisse pour vos cristaux.
+message.crate-form-title: Boîte à mystère
+message.crate-form-subtitle: Veuillez sélectionner la caisse que vous souhaitez ouvrir
+message.crate-form-button-common: §b§lCOMMUN§r 
+message.crate-form-button-rare: §b§lRARE§r 
+message.crate-form-button-legendary: §b§lLEGENDAIRE§r 
+message.crate-form-button-voter: §9§lVOTEUR§r
+message.crate-form-button-bedrock: §9§lBEDROCK§r
+message.crate-crystals: Cristaux
+message.crate-form-button-box-available: §a- 1 boîte disponible
+message.crate-form-button-need-rank: §c- Nécessite {%0} grade
+message.crate-form-button-buy: §7§l> §r§7Cliquez pour acheter
+message.crate-form-button-cannot-buy: §7§l> §r§7Vous avez besoin de plus de cristaux pour acheter cette boîte
+message.crate-form-click-to-open: §7§l> §r§7Cliquez pour ouvrir
+message.crate-form-have-not-boxes: §7§l> §r§7Vous n'avez pas {%0} boîtes
+message.crate-received: §aVous avez reçu {%0}!
+message.crate-coins: pièces
+message.crate-have-not-voter: §cVous n'avez pas de caisses de voteurs.
+message.crate-have-not-bedrock: §cVous n'avez pas de caisses de fond.
+message.crate.have-not-crystals: §cVous n'avez pas assez de cristaux pour acheter cette caisse.
+
+# Leaderboards
+message.leaderboard-title: §6§l§k|§r§e§l LEADERBOARD §6§k|§r
+message.leaderboard-kills: Tuer
+message.leaderboard-wins: Gagner
+
+# Floating texts
+message.voter-rank:
+  - "§8§l--- == [ §eRANG DES VOTANTS §8] == ---"
+  - "§7Votez pour notre serveur à §ebit.do/bedrockplay§7"
+  - "§7et obtenir de nombreux pourcentages tels que §eVoler§7"
+  - "§7sur le lobby, VOTER §eCrate§7 et le rang dans le jeu"
+  - "§7pour §eGRATUIT§7!"
+
+message.bedrock-rank:
+  - "§8§l--- == [ §eBEDROCK GRADE §8] == ---"
+  - "§7Soutenez notre serveur en achetant §eBEDROCK"
+  - "§7grade. Vous obtiendrez des pourcentages tels que §eVoler§7 dans le"
+  - "§7spawn, §eTous§7 les §ekits§7 gratuitement, et aussi"
+  - "§7toutes les affaires du §eMenu cosmétique§7 gratuitement."
+  - "§7Pour acheter ce grade, visitez notre boutique en ligne à l'adresse suivante"
+  - "§ebedrockplay.tebex.io§7! Juste pour §e6 EUR§7!"
+  
+message.welcome-floating:
+  - "§l§8--- == [ §eBedrock§6Play §2NETWORK §8] == ---§r"
+  - "§7Website: §bbedrockplay.eu"
+  - "§7Discord: §bdiscord.io/bedrockplay"
+  - "§f§oMerci de jouer sur le serveur!"
+  
+message.builder-credits: "§7Cet étonnant lobby a été construit par\n§e@CryptoKey98§7 et §e@DepstrajderTv"
+
+# Lobby chat messages
+message.muted: §cVous êtes en sourdine. Attendez {%0} secondes pour être unmuted.
+message.chat-caps: §cN'utilisez pas de MAJUSCULES lorsque vous parlez dans le chat!
+message.chat-advertisement: §cDésolé, mais la publicité n'est pas autorisée sur notre serveur !
+message.chat-limit: §6Attendez {%0} secondes pour parler encore.
+
+# Survival messages
+message.spawnpoint: §aVotre spawn point a été mis à jour avec succès !
+...
