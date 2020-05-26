@@ -63,6 +63,7 @@ message.fly-enabled: §aFlying mode turned on!
 message.join-staff: §6§lSTAFF §r§7{%0}§a joined the game!
 message.join-bedrock: §9§lBEDROCK §r§7{%0}§a joined the game!
 message.join-vip: §3§lVIP §r§7{%0}§a joined the game!
+message.join-yt: §c§lYOUTUBE §r§7{%0}§a joined the game!
 message.minigame-underdev: §cThis server is under development.
 message.lang-changed: §aLanguage was updated to English.
 
