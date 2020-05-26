@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "default": "eng",
   "languages": {
     "eng": {
@@ -21,6 +21,10 @@
     "vie": {
       "name": "Vietnamese",
       "data": "https://raw.githubusercontent.com/BedrockPlay/Translations/master/vie.yml"
+    },
+    "fr": {
+      "name": "French",
+      "data": "https://raw.githubusercontent.com/BedrockPlay/Translations/master/fr.yml"
     }
   }
 }
