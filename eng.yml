@@ -86,9 +86,9 @@ message.crate-form-click-to-open: §7§l> §r§7Click to open
 message.crate-form-have-not-boxes: §7§l> §r§7You haven't any {%0} boxes
 message.crate-received: §aYou've received {%0}!
 message.crate-coins: coins
-message.crate-have-not-voter: §cYou haven't any voter crates.
-message.crate-have-not-bedrock: §cYou haven't any bedrock crates.
-message.crate.have-not-crystals: §cYou haven't too enough crystals to buy this crate.
+message.crate-have-not-voter: §cYou don't have any voter crates.
+message.crate-have-not-bedrock: §cYou don't have any bedrock crates.
+message.crate.have-not-crystals: §cYou don't have required crystals to buy this crate.
 
 # Leaderboards
 message.leaderboard-title: §6§l§k|§r§e§l LEADERBOARD §6§k|§r
