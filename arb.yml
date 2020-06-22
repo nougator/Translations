@@ -11,7 +11,7 @@ prefix.particles: §9Particles> §7
 prefix.pets: §9Pets> §7
 
 # MiniGame sub-prefixes
-prefix.join: §8انصم> §7
+prefix.join: §8انضم> §7
 prefix.quit: §8خروج> §7
 
 # MiniGame prefixes
@@ -59,13 +59,13 @@ message.join-title: §2 مرحبا بعودتك
 message.join-subtitle: §aon §fBedrock§6Play
 message.account-authenticated: §aتم تسجيل دخولك تلقائيًا
 message.fly-enabled: §aتم تشغيل وضع الطيران!
-message.join-staff: §aStaff {%0}§a !انضم إلى لعبة
-message.join-bedrock: §9BEDROCK {%0}§a !انضم إلى لعبة
+message.join-staff: §aStaff {%0}§a !انضم إلى العبة
+message.join-bedrock: §9BEDROCK {%0}§a !انضم إلى العبة
 message.minigame-underdev: §cهذا الخادم قيد التطوير.
 
 # Crates
 message.crate-title: §6§l§k|§r§e§l MYSTERY BOX §6§k|§r
-message.crate-subtitle: §7شراء قفص لبلورات الخاص بك.
+message.crate-subtitle: §7شراء قفص البلورات الخاص بك.
 message.crate-form-title: MysteryBox
 message.crate-form-subtitle: الرجاء تحديد الصندوق الذي تريد فتحه
 message.crate-form-button-common: §b§lCOMMON§r
@@ -74,29 +74,29 @@ message.crate-form-button-legendary: §b§lLEGENDARY§r
 message.crate-form-button-voter: §9§lVOTER§r
 message.crate-form-button-bedrock: §9§lBEDROCK§r
 message.crate-crystals: Crystals
-message.crate-form-button-box-available: §a- 1 مربع متاح
+message.crate-form-button-box-available: §a- 1 الصندوق متاح
 message.crate-form-button-need-rank: §c- Requires {%0} rank
 message.crate-form-button-buy: §7§l> §r§7انقر للشراء
 message.crate-form-button-cannot-buy: §7§l> §r§7تحتاج إلى المزيد من البلورات لشراء هذا الصندوق
-message.crate-form-click-to-open: §7§l> §r§7انقر لفتح
+message.crate-form-click-to-open: §7§l> §r§7انقر للفتح
 message.crate-form-have-not-boxes: §7§l> §r§7> ليس لديك أي صناديق {0%}
 message.crate-received: §aYou've received {%0}!
 message.crate-coins: coins
 message.crate-have-not-voter: §7لم يكن لديك أي صناديق.
-message.crate-have-not-bedrock: §cلم يكن لديك bedrock crates.
+message.crate-have-not-bedrock: §cلم يكن لديك صناديق bedrock.
 message.crate.have-not-crystals: §cليس لديك ما يكفي من البلورات لشراء هذا الصندوق.
 
 # Leaderboards
 message.leaderboard-title: §6§l§k|§r§e§l LEADERBOARD §6§k|§r
 message.leaderboard-kills: قتل
-message.leaderboard-wins: يفوز
+message.leaderboard-wins: فاز
 
 # Floating texts
 message.voter-rank:
   - "§6§l§k|§r§l§e VOTER RANK §6§k|§r"
-  - "§7Vote لخادمنا في §ebit.do/bedrockplay§7"
-  - "§7والحصول على الكثير من المغامرات مثل §eFly§7"
-  - "§7في الردهة, VOTER §eCrate§7 و in-game الرتبة"
+  - "§7صوت لخادمنا في §ebit.do/bedrockplay§7"
+  - "§7والحصول على الكثير من المزايا مثل"
+  - "§7وإمكانية الطيران في ردهة الإنضمام, VOTER §eCrate§7 رتبة في اللعبة و"
   - "§7for §eFREE§7!"
 
 message.bedrock-rank:
